@@ -7,3 +7,4 @@
 - [ ]  todo: add steps like json parsing etc...
 - [ ]  error out on wrong date format or attempt to format
 - [ ]  Tests! 
+- [ ]  String formats & messages for different game states 
