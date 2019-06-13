@@ -8,3 +8,7 @@
 - [ ]  error out on wrong date format or attempt to format
 - [ ]  Tests! 
 - [ ]  String formats & messages for different game states 
+- [ ]  Bring in termcolor or similar to use team colors? (Do I really want to maintain a team color list even though it is pretty static?). What else could I do with colors in the term?
+
+`mlb dodgers 2019-6-20`
+> `Dodgers are beating the Giants: 22 to 0`
