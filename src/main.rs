@@ -24,10 +24,14 @@ fn main() {
         )
         .get_matches();
 
-    println!(
-        "Team: {}, Date: {}",
+    let game = game::Game::new(
         matches.value_of("TEAM").unwrap(),
-        matches.value_of("DATE").unwrap()
+        matches.value_of("DATE").unwrap(),
+    );
+
+    println!(
+        "{} are beating the {}: {} to {}",
+        game.home_team, game.away_team, game.home_score, game.away_score
     );
 }
 fn get_default_date() -> String {
