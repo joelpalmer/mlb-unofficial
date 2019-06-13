@@ -1,5 +1,4 @@
-use std::fmt::Error;
-
+mod mlbapi;
 pub enum GameState {
     NoGame,
     Delayed,
