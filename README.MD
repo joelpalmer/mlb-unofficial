@@ -8,7 +8,7 @@
  
  
  
- **Initial Requirements:**
+ **Requirements + todos as of now:**
  
 - [x]  Take in arguments for `TEAM` & `DATE` (default today) -> score & maybe opponent...
     * ~~Trying~~ using clap 
