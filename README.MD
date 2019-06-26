@@ -15,7 +15,7 @@
 - [x]  Possible states: no game, delayed, postponed, on later, in progress, final
 - [ ]  Data Source: https://statsapi.mlb.com/api/v1/schedule?sportId=1,51&date=2019-06-10
     - [ ]  Build out api
-    - [ ]  Build out http plumbing
+    - [ ]  Build out http plumbing => _may be a good opportunity to get my hands dirty with_ [Tokio](https://tokio.rs/)
 - [ ]  todo: add steps like json parsing etc...
 - [ ]  error out on wrong date format or attempt to format
 - [ ]  Tests! 
