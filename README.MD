@@ -1,5 +1,7 @@
  [![](https://tokei.rs/b1/github/joelpalmer/mlb-unofficial)](https://github.com/joelpalmer/mlb-unofficial)
  
+## MLB API Client
+
 ### Why?
  
  Why not? I usually know the scores b/c I watch the games the morning after on MLB.TV. 
