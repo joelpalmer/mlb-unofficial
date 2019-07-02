@@ -1,4 +1,4 @@
- [![](https://tokei.rs/b1/github/joelpalmer/mlb-unofficial)](https://github.com/joelpalmer/mlb-unofficial)
+[![](https://tokei.rs/b1/github/joelpalmer/mlb-unofficial)](https://github.com/joelpalmer/mlb-unofficial)
  
 ## MLB API Client
 
