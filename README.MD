@@ -1,5 +1,5 @@
 [![](https://tokei.rs/b1/github/joelpalmer/mlb-unofficial)](https://github.com/joelpalmer/mlb-unofficial)
- 
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
 ## MLB API Client
 
 ### Why?
