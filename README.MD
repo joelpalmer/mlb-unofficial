@@ -5,7 +5,7 @@
 
 ### Why?
  
- Why not? I usually know the scores b/c I watch the games the morning after on MLB.TV. 
+ Why not? I usually know the scores because I watch the games the morning after on MLB.TV. 
  But, I find myself wanting standings & stats several times per day.
  So, I want a util that I can run anytime & get MLB data w/o having to open a browser tab and dig.
  I'm starting with scores to get the architecture in place. I will then move on to standings & stats.
