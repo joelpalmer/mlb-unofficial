@@ -1,5 +1,5 @@
-[![](https://tokei.rs/b1/github/joelpalmer/mlb-unofficial)](https://github.com/joelpalmer/mlb-unofficial)
- 
+[![](https://tokei.rs/b1/github/joelpalmer/mlb-unofficial)](https://github.com/joelpalmer/mlb-unofficial) 
+ [![Build Status](https://travis-ci.org/joelpalmer/mlb-unofficial.svg?branch=master)](https://travis-ci.org/joelpalmer/mlb-unofficial)
 ## MLB API Client
 
 ### Why?
